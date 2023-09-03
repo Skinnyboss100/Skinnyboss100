@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skinnyboss100
 - 👀 I’m interested in coding and software developing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python ,c and javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...ademolaodusanya123@gmail.com
 
