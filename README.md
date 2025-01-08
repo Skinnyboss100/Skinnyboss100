@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Skinnyboss100
+- 👋 Hi, I’m @Odusanya Nicholas 
 - 👀 I’m interested in coding and software developing
-- 🌱 I’m currently learning python ,c, Django and php
+- 🌱 I’m currently learning python ,c, Django and javascript
 - 💞️ I’m looking to collaborate on python, c and Django
 - 📫 How to reach me ...ademolaodusanya123@gmail.com and thegeekprogrammer01@gmail.com
 
